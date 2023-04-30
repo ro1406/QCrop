@@ -7,7 +7,8 @@ Initialization:
 ```crop=QCrop()```
 
 Non-error mitigated circuits:
-```crop.generateGraph(molecule,lower_bound,upper_bound,step)
+```
+crop.generateGraph(molecule,lower_bound,upper_bound,step)
 crop.plotGraph()
 ```
 
