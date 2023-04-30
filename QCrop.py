@@ -48,7 +48,7 @@ from qiskit.opflow import I, X, Z
 class QCrop:
     def __init__(self):
         # Assumes the user has installed all from requirements.txt
-        
+        pass
         
     def generateGraph(self,molecule,lower_bound,upper_bound,step):
         '''
